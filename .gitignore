@@ -1,5 +1,6 @@
 # Dependencies
 node_modules/
+.npm/
 
 # Build output
 dist/
@@ -12,6 +13,8 @@ dist/
 
 # Token storage (sensitive)
 tokens.json
+tokens.json.*
+.linkedin-ads-mcp/
 
 # Generated files (may contain sensitive account data)
 dashboard.html
@@ -27,12 +30,19 @@ deploy/
 # OS files
 .DS_Store
 Thumbs.db
+Desktop.ini
 
 # Logs
 *.log
 npm-debug.log*
+logs/
 
 # Test coverage
 coverage/
+.nyc_output/
+.cache/
 *.tsbuildinfo
 *.tmp
+
+# Prepared archive for manual GitHub upload
+/github-upload.zip
