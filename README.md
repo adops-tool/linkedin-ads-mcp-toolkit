@@ -741,7 +741,7 @@ Token writes use a temporary file, flush, and atomic replacement. Creation modes
 
 ## License
 
-Distributed under the **MIT License**. See [LICENSE](LICENSE) for the complete terms.
+Distributed under the **Apache-2.0 license**. See [LICENSE](LICENSE) for the complete terms.
 
 Redistribution must retain the existing copyright and permission notices required by that license.
 
