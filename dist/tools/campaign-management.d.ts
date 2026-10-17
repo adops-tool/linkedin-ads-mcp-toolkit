@@ -1,0 +1,25 @@
+import { Tool } from '@modelcontextprotocol/sdk/types.js';
+import { LinkedInApiClient } from '../lib/linkedin-api.js';
+export declare const createCampaignGroupTool: Tool;
+export declare function handleCreateCampaignGroup(client: LinkedInApiClient, args: unknown): Promise<unknown>;
+export declare const updateCampaignGroupTool: Tool;
+export declare function handleUpdateCampaignGroup(client: LinkedInApiClient, args: unknown): Promise<unknown>;
+export declare const deleteCampaignGroupTool: Tool;
+export declare function handleDeleteCampaignGroup(client: LinkedInApiClient, args: unknown): Promise<unknown>;
+export declare const createCampaignTool: Tool;
+export declare function handleCreateCampaign(client: LinkedInApiClient, args: unknown): Promise<unknown>;
+export declare const updateCampaignTool: Tool;
+export declare function handleUpdateCampaign(client: LinkedInApiClient, args: unknown): Promise<unknown>;
+export declare const deleteCampaignTool: Tool;
+export declare function handleDeleteCampaign(client: LinkedInApiClient, args: unknown): Promise<unknown>;
+export declare const updateCreativeStatusTool: Tool;
+export declare function handleUpdateCreativeStatus(client: LinkedInApiClient, args: unknown): Promise<unknown>;
+export declare const createCreativeTool: Tool;
+export declare function handleCreateCreative(client: LinkedInApiClient, args: unknown): Promise<unknown>;
+export declare const createInlineAdTool: Tool;
+export declare function handleCreateInlineAd(client: LinkedInApiClient, args: unknown): Promise<unknown>;
+export declare const listCampaignsTool: Tool;
+export declare function handleListCampaigns(client: LinkedInApiClient, args: unknown): Promise<unknown>;
+export declare const uploadImageTool: Tool;
+export declare function handleUploadImage(client: LinkedInApiClient, args: unknown): Promise<unknown>;
+//# sourceMappingURL=campaign-management.d.ts.map

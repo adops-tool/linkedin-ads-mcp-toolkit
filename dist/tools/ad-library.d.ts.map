@@ -1,0 +1,1 @@
+{"version":3,"file":"ad-library.d.ts","sourceRoot":"","sources":["../../src/tools/ad-library.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,oCAAoC,CAAC;AAC1D,OAAO,EAAE,iBAAiB,EAAE,MAAM,wBAAwB,CAAC;AAI3D,eAAO,MAAM,mBAAmB,EAAE,IA0GjC,CAAC;AAGF,wBAAsB,qBAAqB,CACzC,MAAM,EAAE,iBAAiB,EACzB,IAAI,EAAE,OAAO,GACZ,OAAO,CAAC,OAAO,CAAC,CA8ElB"}
